@@ -1,0 +1,1 @@
+auth_token = "Please type down your account's token :)"
